@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Names used in various layout versions -->
+    <color name="text_purple">#B39DDB</color>
+    <color name="text_teal">#008080</color>
+    <color name="text_dark_purple">#4527A0</color>
+    <color name="button_teal">#008B8B</color>
+    <color name="fab_teal">#B2EBF2</color>
+    <color name="home_bg">#E0E0E0</color>
+
+    <color name="purple_light">#B39DDB</color>
+    <color name="teal_text">#008080</color>
+    <color name="purple_dark">#4527A0</color>
+    <color name="teal_button">#008B8B</color>
+    <color name="fab_background">#B2EBF2</color>
+    <color name="home_button_bg">#E0E0E0</color>
+</resources>
