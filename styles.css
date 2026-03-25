@@ -106,7 +106,7 @@ section h1{
 }
 p{
     text-align:center;
-    text-transform:math-auto;
+    text-transform:capitalize;
 }
 footer{
     
