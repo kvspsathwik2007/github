@@ -1,0 +1,124 @@
+header{
+    height: 200vh;
+    background-color: #2196F3;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h1{
+    font-size: 30px;
+    color:#2196F3;
+}
+header h1{
+    color:white;
+    text-align:center;
+    text-transform: capitalize;
+
+   
+}
+body{
+    font-size:20px;
+    margin: 0;
+    background-color: #f0f8ff;
+   
+}
+*{
+    font-family:  monospace;
+}
+button{
+    margin: 15px;
+    height: 40px;
+    width: 100px;
+    border:2px solid greenyellow;
+    border-radius: 20px;
+    cursor: pointer;
+    padding:10px;
+
+    
+
+
+}
+button:hover{
+    background-color: darkblue;
+    color: yellow;
+
+}
+img{
+    height: 200px;
+}
+main{
+    padding:20px;
+}
+section{
+    height: 100vh;
+    border: 1px solid grey;
+    border-radius: 20px;;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.submit{
+    height: 40px;
+    width: 100px;
+    border:none;
+    border-radius: 20px;
+    cursor: pointer;
+    color:white;
+    background-color:#2196F3 ;
+}
+.submit:hover{
+    background-color:#1178cd;
+    
+}
+input{
+    border-radius: 5px;
+    border:2px solid grey;
+    height:25px;
+}
+
+.sathwik{
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    padding: 2px;
+    border: 2px solid black;
+}
+
+section h1{
+     color:rgb(81, 190, 159);   
+     text-decoration:dotted;
+     
+     transition: color 2s linear 2s;
+}
+ main section form .naveeen{
+    border:2px solid lightcoral;
+    border-radius:20px;
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+
+}
+p{
+    text-align:center;
+    text-transform:math-auto;
+}
+footer{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: black;
+    color: white;
+    border: 2px solid blue;
+    border-radius: 30px;
+    border-bottom-style: solid;
+    padding-inline-start: revert-layer;
+}
