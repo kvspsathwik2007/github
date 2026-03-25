@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Variations</string>
+    <string name="linear_layout_btn">LINEAR LAYOUT</string>
+    <string name="relative_layout_btn">RELATIVE LAYOUT</string>
+    <string name="constraint_layout_btn">CONSTRAINT LAYOUT</string>
+    <string name="this_page_using">This page using</string>
+    <string name="liner_layout_title">liner layout</string>
+    <string name="relative_layout_title">relative layout</string>
+    <string name="constraint_layout_title">Constraint Layout</string>
+    <string name="hello_world">Hello world</string>
+</resources>
